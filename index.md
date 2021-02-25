@@ -1,4 +1,4 @@
-[About](/about)
+[About](/about.md)
 
 
 ## TODAY IS A GOOD DAY
@@ -13,6 +13,13 @@ Enjoy it!
 
 
 
+
+[Data Privacy](/data-privacy.md)
+
+[Data Protection](/data-protection.md)
+
+
+[Imprint](/imprint.md)
 
 
 
