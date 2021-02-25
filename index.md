@@ -5,7 +5,7 @@
 
 Enjoy it!
 
-### Think less, Snowboard more!
+### Think less, snowboard more!
 
 
 
