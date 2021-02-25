@@ -1,3 +1,6 @@
+[About](/about)
+
+
 ## TODAY IS A GOOD DAY
 
 Enjoy it!
